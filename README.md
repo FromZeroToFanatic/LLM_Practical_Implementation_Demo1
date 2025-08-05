@@ -54,4 +54,4 @@
 - 预训练模型地址：https://huggingface.co/uer/t5-base-chinese-cluecorpussmall
 - 数据集：链接：https://pan.quark.cn/s/6d4a98cd65f2 提取码：****
 
-## 如有侵权，联系必删
+## 如有侵权，联系必删，仅用于学习用途，不做任何商业用途。
