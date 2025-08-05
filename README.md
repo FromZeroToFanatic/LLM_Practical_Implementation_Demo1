@@ -22,4 +22,4 @@
   - [ROPE编码] https://www.bilibili.com/video/BV1Tr421p7By
 
 ### 【实战】大模型实战 （✅）
-- [Transformer教程] https://transformers.run/
+- [Transformer教程] https://transformers.run/ （4---12）
