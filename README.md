@@ -3,7 +3,7 @@
 ## 学习资料
 
 ### 【原理】大模型原理  （✅）
-- [入门书籍] https://intro-llm.github.io/
+- [入门书籍] https://intro-llm.github.io/ （1、2、3、6）
 
 ### 【脉络】ChatGPT的前世今生 （✅）
 - [白话ChatGPT-李宏毅] https://www.bilibili.com/video/BV1U84y167i3
