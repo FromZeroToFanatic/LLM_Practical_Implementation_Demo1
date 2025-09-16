@@ -2,12 +2,12 @@
 
 ## 学习资料
 
-### 【原理】大模型原理  （✅）
+### 【原理】大模型原理
 - [入门书籍] https://intro-llm.github.io/ （重点阅读1、2、3、6章）
 
 ---
 
-### 【脉络】ChatGPT的前世今生 （✅）
+### 【脉络】ChatGPT的前世今生
 - [白话ChatGPT-李宏毅] https://www.bilibili.com/video/BV1U84y167i3
 - [OpenAI-大语言模型入门] https://www.bilibili.com/video/BV1Hj41177fb
 - [论文研读] InstructGPT: Training language models to follow instructions with human feedback
@@ -16,7 +16,7 @@
 
 ---
 
-### 【手撕】图解系列Transformer/BERT/GPT （✅）
+### 【手撕】图解系列Transformer/BERT/GPT
 - [视频教程] https://www.bilibili.com/video/BV11v4y137sN
 - [图解+手撕底层原理] https://github.com/datawhalechina/learn-nlp-with-transformers/tree/main/docs/篇章2-Transformer相关原理
 - [手写大模型推理(Pytorch版)] https://github.com/naklecha/llama3-from-scratch
@@ -24,7 +24,7 @@
 
 ---
 
-### 【实战】大模型实战 （✅）
+### 【实战】大模型实战 
 - [Transformer教程] https://transformers.run/ （重点阅读4～12章）
 
 ---
